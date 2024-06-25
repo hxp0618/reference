@@ -62,6 +62,7 @@ Quick Reference
 [Flutter](./docs/flutter.md)<!--rehype:style=background: rgb(150 220 254);&class=contributing tag&data-lang=Dart-->  
 [Golang](./docs/golang.md)<!--rehype:style=background: rgb(39 160 193);-->  
 [GraphQL](./docs/graphql.md)<!--rehype:style=background: rgb(214 66 146);-->  
+[Hook](./docs/hook.md)<!--rehype:style=background: rgb(211 55 49);-->  
 [Java](./docs/java.md)<!--rehype:style=background: rgb(211 55 49);&class=contributing&data-info=👆看看还缺点儿什么？-->  
 [Julia](./docs/julia.md)<!--rehype:style=background: rgb(26 188 156);&class=contributing&data-info=👆看看还缺点儿什么？-->  
 [Kotlin](./docs/kotlin.md)<!--rehype:style=background: rgb(211 55 49);&class=contributing&data-info=👆看看还缺点儿什么？-->  
@@ -121,7 +122,8 @@ Quick Reference
 [Stylus](./docs/stylus.md)<!--rehype:style=background: rgb(109 161 63);&class=tag&data-lang=CSS-->  
 [Sass](./docs/sass.md)<!--rehype:style=background: rgb(207 100 154);&class=tag&data-lang=CSS-->  
 [Less.js](./docs/lessjs.md)<!--rehype:style=background: rgb(29 54 93);&class=tag&data-lang=CSS-->  
-[Tailwind CSS](./docs/tailwindcss.md)<!--rehype:style=background: rgb(49 120 198);-->  
+[Tailwind CSS](./docs/tailwindcss.md)<!--rehype:style=background: rgb(49 120 198);&class=tag&data-lang=CSS-->  
+[StyleX](./docs/stylex.md)<!--rehype:style=background: rgb(91 79 163);&class=tag&data-lang=CSS-->  
 <!--rehype:class=home-card-->
 
 ## Nodejs
